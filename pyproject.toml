@@ -11,6 +11,7 @@ flake8 = "^3.8.4"
 lizard = "^1.17.7"
 Flask = "^1.1.2"
 Flask-API = "^2.0"
+boto3 = "^1.21.40"
 
 [tool.poetry.dev-dependencies]
 coverage = "^5.4"
